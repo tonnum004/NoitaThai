@@ -1,9 +1,17 @@
 === วิธีติดตั้งและใช้งาน Noita ภาษาไทย ===
 
-การติดตั้ง:
-1. โฟลเดอร์ "thai" นี้ควรอยู่ใน Steam\steamapps\common\Noita\mods\
-2. เปิดเกม Noita → ไปที่ Options → Language → เลือก "ภาษาไทย"
-3. กด New Game
+การติดตั้ง (แบบง่าย):
+1. ปิดเกม Noita
+2. ดับเบิลคลิก install.bat
+   (ถ้า Windows ขึ้น "Windows protected your PC" ให้กด More info → Run anyway)
+3. เปิดเกมได้เลย ภาษาจะเป็นไทยอัตโนมัติ
+
+ตัวติดตั้งจะ: หาโฟลเดอร์เกมจาก Steam (หาไม่เจอจะให้เลือกเอง), copy mod ไปที่ Noita\mods\thai,
+เปิด mod และตั้งภาษาเป็นไทย ไฟล์ตั้งค่าเดิมสำรองไว้เป็น *.bak-thai ใน
+%USERPROFILE%\AppData\LocalLow\Nolla_Games_Noita\
+
+ติดตั้งเอง: copy โฟลเดอร์นี้ไปเป็น Steam\steamapps\common\Noita\mods\thai
+แล้วเปิดเกม → Options → Language → เลือก "ภาษาไทย"
 
 
 === ฟอนต์ภาษาไทย ===
