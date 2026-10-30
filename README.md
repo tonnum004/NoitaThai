@@ -4,7 +4,7 @@
 
 ## ติดตั้ง
 
-1. กดปุ่ม **Code → Download ZIP** แล้วแตกไฟล์
+1. ไปที่หน้า [Releases](../../releases) โหลด `NoitaThai-vX.Y.Z.zip` แล้วแตกไฟล์ (คลิกขวา > Extract All)
 2. ปิดเกม Noita
 3. ดับเบิลคลิก `install.bat`
    (ถ้า Windows ขึ้น "Windows protected your PC" ให้กด More info → Run anyway)
