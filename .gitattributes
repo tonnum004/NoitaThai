@@ -1,0 +1,2 @@
+# keep files byte-for-byte: the game reads LF-only CSV/XML
+* -text

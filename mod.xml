@@ -1,0 +1,14 @@
+<Mod
+	name="Thai Translation (แปลภาษาไทย)"
+	description="Noita unofficial Thai translation\n\nแปลเกม Noita เป็นภาษาไทยโดย Community"
+	request_no_api_restrictions="0"
+	is_translation="1"
+	translation_xml_path="mods/thai/translation.xml"
+	translation_csv_path="mods/thai/translation.csv"
+>
+</Mod>
+
+<!--
+	'is_translation="1"' turns off normal mod functionality,
+	but makes the mod display under Language in the Options menu.
+-->

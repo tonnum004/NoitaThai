@@ -1,0 +1,7 @@
+# backups contain a Tahoma-derived font, which must not be redistributed
+_backup_*/
+# old unused Chinese font copied from the game (14 MB)
+data/
+# local previews and Python cache
+preview*.png
+__pycache__/
